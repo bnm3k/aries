@@ -1,7 +1,7 @@
 # =============================================================================
 PROJECT_NAME:=aries
 
-.DEFAULT_GOAL:=help
+.DEFAULT_GOAL:=run
 .SILENT:
 SHELL:=/usr/bin/bash
 
